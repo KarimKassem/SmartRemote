@@ -58,7 +58,7 @@
 ## Sketch Upload
 1. **Connect Your ESP32-C3**
 
-    Connect your ESP32-C3 board to your computer using a USB cable. Ensure you use a USB2 port for compatibility.
+    Connect your ESP32-C3 board to your computer using a USB cable (use the USB2 Port).
 
 2. **Select Port**
 
@@ -69,7 +69,7 @@
     Use the following button combination to put the board in boot mode:
     - Press and hold the `Boot` button.
     - While holding the `Boot` button, press and release the `Reset` button.
-    - Continue holding the `Boot` button for a few more seconds, then release it.
+    - Continue holding the `Boot` button for anotehr second, then release it.
 
 4. **Upload Sketch**
 
