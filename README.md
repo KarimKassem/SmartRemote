@@ -1,11 +1,11 @@
 # SmartRemote
 
-# Installation and Configuration
-## Prerequisites
+## Installation and Configuration
+### Prerequisites
 
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) installed on your computer.
 
-## Installation Steps
+### Installation Steps
 
 1. **Open Arduino IDE**
 
@@ -37,7 +37,7 @@
 
     After installation, go to `Tools` -> `Board` and select `ESP32C3 Dev Module`.
 
-## Install Required Libraries
+### Install Required Libraries
 
 1. **Open Library Manager**
 
@@ -55,7 +55,7 @@
     - Find `SHT4x` by `Adafruit`.
     - Click on `Install` and ensure version `1.0.2` is installed.
 
-# Sketch Upload
+## Sketch Upload
 1. **Connect Your ESP32-C3**
 
     Connect your ESP32-C3 board to your computer using a USB cable. Ensure you use a USB2 port for compatibility.
